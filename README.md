@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on Software testing
 - 🌱 I’m currently learning RestAssured
